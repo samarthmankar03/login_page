@@ -1,2 +1,2 @@
 # login_page
-Created simple yet attractive Login Page using HTML and CSS !!
+Created a simple yet attractive Login Page using HTML and CSS !!
